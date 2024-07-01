@@ -1,0 +1,14 @@
+
+
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+}
+#signin{
+    background-image: linear-gradient(180deg, #ffffff 7%, #2f5fa7 90%);
+}
